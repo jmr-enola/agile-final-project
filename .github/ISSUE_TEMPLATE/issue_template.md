@@ -1,6 +1,6 @@
 ---
-name: User Story
-about: Template for creating user stories.
+name: ISSUE_TEMPLATE
+about: Template for raising an isse and creating a user story.
 title: ''
 labels: ''
 assignees: ''
